@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haron Ongaki</h1>
-<h3 align="center">A Senior Software Engineer (Java/Python)</h3>
+<h3 align="center">A Senior Software Engineer (Java/Python/Rails)</h3>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 👯 I’m looking to collaborate with **other engineers**
 
 - ⚡ Fun fact **I love watching F1 (Mercedes Team), Manchester United fan.**
 
